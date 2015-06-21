@@ -1,6 +1,0 @@
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Files.FileStreams\build\v1.1\bin\AnyCPU\release\USC.GISResearchLab.Common.Core.Files.FileStreams.dll
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Files.FileStreams\src\obj\Release\Common.Core.Files.FileStreams.csprojResolveAssemblyReference.cache
-C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Files.FileStreams\src\obj\Release\USC.GISResearchLab.Common.Core.Files.FileStreams.dll
-C:\DevBuild\Tamu\GeoInnovation\Common\Core\Files.FileStreams\build\1.0.0\release\Tamu.GeoInnovation.Common.Core.Files.FileStreams.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Files.FileStreams\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Files.FileStreams.dll
-C:\DevSource\Tamu\GeoInnovation\Common\Core\Files.FileStreams\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Files.FileStreams.dll

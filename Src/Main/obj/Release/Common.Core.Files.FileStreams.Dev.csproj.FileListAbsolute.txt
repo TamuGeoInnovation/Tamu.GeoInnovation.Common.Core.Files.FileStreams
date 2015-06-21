@@ -1,2 +1,0 @@
-C:\DevSource\Tamu\GeoInnovation\Common.Core.Files.FileStreams\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Files.FileStreams.dll
-C:\DevSource\Tamu\GeoInnovation\Common.Core.Files.FileStreams\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Files.FileStreams.dll
