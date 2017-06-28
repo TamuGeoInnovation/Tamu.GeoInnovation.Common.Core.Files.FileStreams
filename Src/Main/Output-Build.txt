@@ -1,0 +1,4 @@
+﻿Error occurred while restoring NuGet packages: Unable to locate the solution directory. Please ensure that the solution has been saved.
+1>------ Build started: Project: Common.Core.Files.FileStreams.Dev, Configuration: Debug Any CPU ------
+1>  Common.Core.Files.FileStreams.Dev -> C:\DevSource\Tamu\GeoInnovation\Common.Core.Files.FileStreams\build\1.0.0\AnyCPU\debug\Tamu.GeoInnovation.Common.Core.Files.FileStreams.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
