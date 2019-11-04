@@ -20,19 +20,20 @@ namespace USC.GISResearchLab.Common.IOs.FileStreams
         private bool _CanSplitData;
         private int _NextFileIndex;
 
-        public long MaxFileLength 
-        { 
+        public long MaxFileLength
+        {
             get { return _MaxFileLength; }
-            set { _MaxFileLength = value; } 
+            set { _MaxFileLength = value; }
         }
-        public int MaxFileCount 
-        { 
+        public int MaxFileCount
+        {
             get { return _MaxFileCount; }
-            set { _MaxFileCount = value; } 
+            set { _MaxFileCount = value; }
         }
-        public bool CanSplitData { 
-            get { return _CanSplitData; } 
-            set { _CanSplitData = value; } 
+        public bool CanSplitData
+        {
+            get { return _CanSplitData; }
+            set { _CanSplitData = value; }
         }
 
         public string FileDir
@@ -58,8 +59,8 @@ namespace USC.GISResearchLab.Common.IOs.FileStreams
 
         public int NextFileIndex
         {
-            get{return _NextFileIndex;}
-            set{_NextFileIndex = value;}
+            get { return _NextFileIndex; }
+            set { _NextFileIndex = value; }
         }
 
         #endregion
@@ -131,7 +132,7 @@ namespace USC.GISResearchLab.Common.IOs.FileStreams
             FileDir = Path.GetDirectoryName(fullPath);
             FileBase = Path.GetFileNameWithoutExtension(fullPath);
             FileExt = Path.GetExtension(fullPath);
-            
+
             FileDecimals = 1;
             int decimalBase = 10;
             while (decimalBase < _MaxFileCount)
